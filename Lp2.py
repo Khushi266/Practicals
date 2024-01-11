@@ -1,6 +1,6 @@
 print("Hello Khushi")
 
-int a = 5
-int b = 7
-int c = a+b
+a = 5
+b = 7
+c = a+b
 print(c)
